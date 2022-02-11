@@ -1,6 +1,6 @@
 # Pewlett Hackard Employee Analysis
 
-Pewlett Hackard is looking at the succession plan for the company.  The team wanted to know how many people were retiring based on their birthdate and current title.  After determinig the number of people retiring, the team wanted to look at a mentorship program.  We pulled all current employees who were born in 1965 and their current titles.  With this information, the team would like to pair up an employee in leadership who is near retirement with someone at the company who can grow into the role.
+Pewlett Hackard is looking at the succession plan for the company.  The team wanted to know how many people were retiring based on their birthdate and current title.  To get an idea of employees retirement-ready, we decided to look at anyone who was born between 1952 and 1955.  After determinig the number of people retiring, the team wanted to look at a mentorship program.  We pulled all current employees who were born in 1965 and their current titles.  With this information, the team would like to pair up an employee in leadership who is near retirement with someone at the company who can grow into the role.
 
 Results
 - The results of the ananlysis was very eye opening.  It was surprising to see that there are 72,458 people near retirement after creating the retiring title query.  To put this into context, we need to look at the current employee count which I have included in the Summary below. 
