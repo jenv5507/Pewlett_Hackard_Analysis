@@ -41,6 +41,8 @@ FROM mentorship_eligibility
 GROUP BY title 
 ORDER by count DESC;
 
+
+--Get a table of current employees with title
 SELECT e.emp_no, e.first_name, e.last_name, t.title, t.from_date, t.to_date
 INTO current_employee
 FROM employees as e
@@ -49,7 +51,9 @@ ON e.emp_no = t.emp_no
 WHERE (t.to_date = '9999-01-01' )
 ORDER BY e.emp_no;
 
+--Get a count of employees by title
 SELECT count(title) as count, title
+INTO current_count
 FROM current_employee
 GROUP BY title
 ORDER by count DESC
