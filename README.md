@@ -16,7 +16,7 @@ Pewlett Hackard is looking at the succession plan for the company.  The team wan
 
 # Summary
 
-To help with the analysis, I created a query to look at total employee count by title and also how many people are eligible for the Mentorship Program which you can see in the image below.  The image below shows count of current employees by title, count of retiring employees by title and count of eligible employees for Mentorship Program by title.
+To help with the analysis, I created a query to look at total employee count by title and also how many people are eligible for the Mentorship Program by title.  The image below shows count of current employees by title, count of retiring employees by title and count of eligible employees for Mentorship Program by title.
 
 There are 72,458 roles that need to be filled out of a current employee count of 240,124.  This is about 30% of the total company.  We need to come up with a plan to make a seamless transition to new leadership as these employees begin retiring.
 
