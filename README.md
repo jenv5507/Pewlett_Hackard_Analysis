@@ -5,4 +5,4 @@ Pewlett Hackard is looking at the succession plan.  The team wanted to know how 
 Results
 - The results of the ananlysis was very eye opening.  As you can see below, the number of people retiring far exceeds the people eligible for the mentorship program.  There are 72,458 retiring and only 1,549 eligible for the Mentorship Program.
 
-![](/Retirement_Image.png) 
+![](/Challenge/Retirement_Image.png) 
