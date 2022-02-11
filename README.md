@@ -9,11 +9,13 @@ Results
 ![](/Challenge/DISTINCT.png) 
 
 - I looked at the employees that were roughly 10 years younger then the people retiring.  To do this, I created a table that held the employees that were born in the year 1965.  After exporting the data and looking at how many lines were in the csv file, I could tell that we have some work to do in regards of filling all of these positions.
+
 - As with the retiring employees, I had to do another DISTINCT ON from the employee number to retrieve just one line for each employee that is eligible for the Mentorship Program.
 
 
 
 Summary
+
 To help with the analysis, I created a query to look at total employee count by title and also how many people are eligible for the Mentorship Program which you can see in the image below.  The image below shows count of current employees by title, count of retiring employees by title and count of eligible employees for Mentorship Program.
 
 -There are 72,458 roles that need to be filled out of a current employee count of 240,124.  This is about 30% of the total company.  We need to come up with a plan to make a seamless transition to new leadership as these employees begin retiring.
@@ -23,8 +25,6 @@ To help with the analysis, I created a query to look at total employee count by 
 
 
 
-
-
 ![](/Challenge/Retirement_Image.png) 
 
-- 
+
